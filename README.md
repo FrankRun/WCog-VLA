@@ -1,5 +1,12 @@
 # WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving
 
+
+**Xuerun Yan¹²†, Zhexi Lian¹†, Nuoheng Zhang¹, Shiyu Fang¹, Haoran Wang¹, Chen Lv², Jia Hu¹✉, Binyang Song²✉**
+
+¹ Tongji University, China  
+² Nanyang Technological University, Singapore  
+† Equal contribution · ✉ Corresponding author
+
 [**Paper**](https://arxiv.org/abs/2607.08375)
 
 ## Framework
