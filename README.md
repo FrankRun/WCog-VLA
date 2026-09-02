@@ -7,7 +7,7 @@
 ² Nanyang Technological University, Singapore  
 † Equal contribution · ✉ Corresponding author
 
-[**Paper**](https://arxiv.org/abs/2607.08375)
+[**Arxiv**](https://arxiv.org/abs/2607.08375)
 
 ## Framework
 
